@@ -1,0 +1,30 @@
+{
+  "name": "teamGenerator",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norrii1/teamGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norrii1/teamGenerator/issues"
+  },
+  "homepage": "https://github.com/norrii1/teamGenerator#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}
