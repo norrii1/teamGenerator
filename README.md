@@ -11,6 +11,8 @@
 ![My Team](./assets/myTeam.png)
 <hr>
 
+![My Team GIF](./assets/teamGenerator.gif)
+
 
 
 
